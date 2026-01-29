@@ -8,6 +8,7 @@ C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.RobotSpiders.Validation.AssemblyInfoInputs.cache
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.RobotSpiders.Validation.AssemblyInfo.cs
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.RobotSpiders.Validation.csproj.CoreCompileInputs.cache
+C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.RobotSpiders.Validation.sourcelink.json
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.Robo.F56EF8F2.Up2Date
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\HDD.RobotSpiders.Validation.dll
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Validation\obj\Debug\net10.0\refint\HDD.RobotSpiders.Validation.dll

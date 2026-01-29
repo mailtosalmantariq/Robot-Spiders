@@ -157,6 +157,7 @@ C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.RobotSpiders.Tests.AssemblyInfoInputs.cache
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.RobotSpiders.Tests.AssemblyInfo.cs
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.RobotSpiders.Tests.csproj.CoreCompileInputs.cache
+C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.RobotSpiders.Tests.sourcelink.json
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.Robo.21DB1259.Up2Date
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\HDD.RobotSpiders.Tests.dll
 C:\P\Personal Development\LLoyds PDP\Class Library\RobotSpiders\HDD.RobotSpiders\HDD.RobotSpiders.Tests\obj\Debug\net10.0\refint\HDD.RobotSpiders.Tests.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HDD.RobotSpiders.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13604ed184ef3e1a64b88eba5b95b08ce6a6c218")]
 [assembly: System.Reflection.AssemblyProductAttribute("HDD.RobotSpiders.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HDD.RobotSpiders.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
