@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HDD.RobotSpiders.Domain\HDD.RobotSpiders.Domain.csproj" />
+    <ProjectReference Include="..\HDD.RobotSpiders.Parser\HDD.RobotSpiders.Parser.csproj" />
+    <ProjectReference Include="..\HDD.RobotSpiders\HDD.RobotSpiders.Services.csproj" />
+  </ItemGroup>
+
+</Project>

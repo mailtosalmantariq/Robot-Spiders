@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../ShoppingBasket/MT.ShoppingBasket/.gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="HDD.RobotSpiders.ConsoleApp/HDD.RobotSpiders.ConsoleApp.csproj" />
+  <Project Path="HDD.RobotSpiders.Domain/HDD.RobotSpiders.Domain.csproj" />
+  <Project Path="HDD.RobotSpiders.Parser/HDD.RobotSpiders.Parser.csproj" />
+  <Project Path="HDD.RobotSpiders.Tests/HDD.RobotSpiders.Tests.csproj" />
+  <Project Path="HDD.RobotSpiders.Validation/HDD.RobotSpiders.Validation.csproj" />
+  <Project Path="HDD.RobotSpiders/HDD.RobotSpiders.Services.csproj" />
+</Solution>

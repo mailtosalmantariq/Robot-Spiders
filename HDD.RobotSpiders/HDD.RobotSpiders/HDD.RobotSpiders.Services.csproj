@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HDD.RobotSpiders.Domain\HDD.RobotSpiders.Domain.csproj" />
+    <ProjectReference Include="..\HDD.RobotSpiders.Validation\HDD.RobotSpiders.Validation.csproj" />
+  </ItemGroup>
+
+</Project>
