@@ -86,7 +86,7 @@ namespace HDD.RobotSpiders.Tests.SpiderNavigator
         public async Task ExecuteAsync_MovementStopsAtBoundary()
         {
             // Arrange
-            var start = new Position(0, 0, Direction.Down); // Already at bottom boundary
+            var start = new Position(0, 0, Direction.Down); 
             string commands = "FFFF"; // Should not go below 0
 
             // Act
